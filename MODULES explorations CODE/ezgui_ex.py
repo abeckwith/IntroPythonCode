@@ -55,7 +55,7 @@ http://easygui.sourceforge.net/tutorial.html
 
 
 ASSIGNMENT:
-Write code to converse with the user about something, using easygui windows.
-Go to the websites above and try to use one easygui feature that I did not
+Write code to converse with the user about something, using easygui popup windows.
+Also, go to the websites above and try to include one easygui feature that I did not
 give you an example for above.
 '''
